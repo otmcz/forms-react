@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.form {
+  display: flex;
+  flex-direction: column;
+  outline: 5px black solid;
+  margin-left: 35vw;
+  margin-right: 35vw;
+  border-radius: 2.5%;
+}
